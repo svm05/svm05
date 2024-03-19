@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @svm05
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...C++, Java
-- 💞️ I’m looking to collaborate on ...Web Deveelopments Projects
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...Web Development Projects
+- 📫 How to reach me ... https://www.linkedin.com/in/shripati-vaibhav-1079b82a1/
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ..
 
