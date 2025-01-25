@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shripati Vaibhav Maitrey</h1>
 <h3 align="center">A passionate frontend developer with interest in Cloud Technologies</h3>
 
-- 🔭 I’m currently working on [Healthsync](https://github.com/svm05/Healthsync)
+- 🔭 I’m currently working on [Swasthify](https://github.com/svm05/Healthsync)
 
 - 🌱 I’m currently learning **MERN stack**
 
