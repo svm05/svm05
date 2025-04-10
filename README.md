@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **vaibhav.maitrey05@gmail.com**
 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NOLCZHrFtSrzp3Sk_WqSe5vxYLhN-w2-/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shripati-vaibhav-1079b82a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shripati-vaibhav-1079b82a1" height="30" width="40" /></a>
