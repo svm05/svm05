@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shripati Vaibhav Maitrey</h1>
 <h3 align="center">A passionate frontend developer with interest in Cloud Technologies</h3>
 
-- 🔭 I’m currently working on [Swasthify](https://github.com/svm05/Healthsync)
-
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **vaibhav.maitrey05@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NOLCZHrFtSrzp3Sk_WqSe5vxYLhN-w2-/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19w6krFxPd7bHlTLggGeNbUlFbDZBPOK8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
